@@ -1,0 +1,91 @@
+<?php
+/**
+ * MyBB 1.6 Vietnamese Language Pack
+ * By Giang Mạnh 2014
+ */
+
+$l['post_thread'] = "Post Thread";
+$l['moderated_by'] = "Duyệt bởi:";
+$l['nothreads'] = "Sorry but there are currently no threads in this forum with the specified date and time limiting options.";
+$l['search_forum'] = "Tìm kiếm trong diễn đàn này:";
+$l['thread'] = "Chủ đề";
+$l['author'] = "Gợi chuyện bởi";
+$l['replies'] = "Trả lời";
+$l['views'] = "Lượt xem";
+$l['lastpost'] = "Bài gần đây nhất";
+$l['rating'] = "Độ hay";
+$l['markforum_read'] = "Đánh dấu đã đọc";
+$l['subscribe_forum'] = "Theo dõi diễn đàn này";
+$l['unsubscribe_forum'] = "Bỏ theo dõi";
+$l['clear_stored_password'] = "Xoá mật khẩu lưu trong diễn đàn này";
+$l['sort_by_subject'] = "Sắp xếp: theo chủ đề";
+$l['sort_by_lastpost'] = "Sắp xếp: bài mới ở đầu tiên";
+$l['sort_by_starter'] = "Sắp xếp: nhóm người viết lại";
+$l['sort_by_started'] = "Sắp xếp: theo thời gian";
+$l['sort_by_rating'] = "Sắp xếp: theo độ hay";
+$l['sort_by_replies'] = "Sắp xếp: theo số lượng trả lời";
+$l['sort_by_views'] = "Sắp xếp: theo lượng đọc";
+$l['sort_order_asc'] = "Thứ tự tăng dần";
+$l['sort_order_desc'] = "Thứ tựu giảm dần";
+$l['datelimit_1day'] = "Trong vòng hôm nay";
+$l['datelimit_5days'] = "Trong vòng 5 ngày gần dây";
+$l['datelimit_10days'] = "Trong vòng 5 ngày gần dây";
+$l['datelimit_20days'] = "Trong vòng 3 tuần gần dây";
+$l['datelimit_50days'] = "Trong vòng 3 tháng gần dây";
+$l['datelimit_75days'] = "Trong vòng 75 ngày gần dây";
+$l['datelimit_100days'] = "Trong vòng 100 ngày gần dây";
+$l['datelimit_lastyear'] = "Trong vòng nửa năm";
+$l['datelimit_beginning'] = "Tất cả";
+$l['new_thread'] = "Các bài viét mới";
+$l['new_hot_thread'] = "Chủ đề thu hút";
+$l['posts_by_you'] = "có bạn tham gia";
+$l['no_new_thread'] = "không có bài viết mới";
+$l['hot_thread'] = "Hot Thread (No New)";
+$l['locked_thread'] = "Chủ đề đã đóng băng";
+$l['goto_first_unread'] = "Chuyển tới bài đầu tiên chưa đọc";
+$l['pages'] = "Trang:";
+$l['pages_last'] = "cuối cùng";
+$l['users_browsing_forum'] = "Lượng thành viên đang mở điễn đàn này:";
+$l['users_browsing_forum_guests'] = "{1} khách";
+$l['users_browsing_forum_invis'] = "{1} thành viên ẩn";
+$l['delayed_moderation'] = "Delayed Moderation";
+$l['inline_thread_moderation'] = "Inline Thread Moderation:";
+$l['close_threads'] = "Đóng băng";
+$l['open_threads'] = "Mở";
+$l['stick_threads'] = "Đính";
+$l['unstick_threads'] = "Bỏ đính";
+$l['delete_threads'] = "Xoá";
+$l['move_threads'] = "Di chuyển";
+$l['approve_threads'] = "Phê duyệt";
+$l['unapprove_threads'] = "Không phê duyệt";
+$l['inline_go'] = "Di chuyển";
+$l['clear'] = "Dọn sạch";
+$l['sub_forums_in']  = "Các diễn đàn '{1}'";
+$l['forum_rules'] = "{1} - Điều lệ";
+$l['subforums'] = "<strong>Diễn đàn nhỏ:</strong>";
+$l['asc'] = "asc";
+$l['desc'] = "desc";
+$l['forum_announcements'] = "Thông báo của diễn đàn";
+$l['sticky_threads'] = "Các chủ đề quan trọng";
+$l['normal_threads'] = "Các chủ đề bình thường";
+$l['icon_dot'] = "Có bạn tham gia. "; // The spaces for the icon labels are strategically placed so that there should be no extra space at the beginning or end of the resulting label and that spaces separate each 'status' ;)
+$l['icon_no_new'] = "No new posts.";
+$l['icon_new'] = "New posts.";
+$l['icon_hot'] = " Hot thread.";
+$l['icon_lock'] = " Locked thread.";
+$l['attachment_count'] = "This thread contains 1 attachment.";
+$l['attachment_count_multiple'] = "This thread contains {1} attachments.";
+$l['rss_discovery_forum'] = "Latest Threads in {1}";
+$l['forum_unapproved_posts_count'] = "There are currently {1} unapproved posts in this forum.";
+$l['forum_unapproved_post_count'] = "There is currently 1 unapproved post in this forum.";
+$l['forum_unapproved_threads_count'] = "There are currently {1} unapproved threads in this forum.";
+$l['forum_unapproved_thread_count'] = "There is currently 1 unapproved thread in this forum.";
+$l['thread_unapproved_posts_count'] = "There are currently {1} unapproved posts in this thread.";
+$l['thread_unapproved_post_count'] = "There is currently 1 unapproved post in this thread.";
+$l['page_selected'] = "All <strong>{1}</strong> threads on this page are selected.";
+$l['all_selected'] = "All <strong>{1}</strong> threads in this forum are selected.";
+$l['select_all'] = "Select all <strong>{1}</strong> threads in this forum.";
+$l['clear_selection'] = "Clear Selection.";
+
+$l['error_containsnoforums'] = "Sorry but the forum you are currently viewing does not contain any child forums.";
+?>
