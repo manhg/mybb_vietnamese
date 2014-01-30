@@ -1,26 +1,26 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * MyBB 1.6 Vietnamese Language Pack
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: showteam.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: showteam.lang.php 5297 2012-02-27 22:01:14Z Community MyBB Vietnam $
  */
 
-$l['nav_showteam'] = "Forum Team";
-$l['forum_team'] = "Forum Team";
-$l['moderators'] = "Moderators";
+$l['nav_showteam'] = "Nhóm";
+$l['forum_team'] = "Nhóm";
+$l['moderators'] = "Quản trị viên";
 $l['mod_username'] = "Username";
-$l['mod_forums'] = "Forum(s)";
+$l['mod_forums'] = "Diễn đàn";
 $l['mod_email'] = "Email";
 $l['mod_pm'] = "PM";
-$l['uname'] = "Username";
+$l['uname'] = "Tài khoản";
 $l['email'] = "Email";
 $l['pm'] = "PM";
 
-$l['group_leaders'] = "Leader(s)";
-$l['group_members'] = "Member(s)";
+$l['group_leaders'] = "Quản lý";
+$l['group_members'] = "Thành viên";
 
-$l['no_members'] = "No members in this group";
+$l['no_members'] = "Nhóm này không có thành viên nào";
 
-$l['error_noteamstoshow'] = "There are no forum staff to be shown.";
+$l['error_noteamstoshow'] = "Hiện tại không có Nhóm nào cả.";
 ?>

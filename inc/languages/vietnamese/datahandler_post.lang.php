@@ -1,27 +1,23 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
- *
- * $Id$
+ * MyBB 1.6 Vietnamese Language Pack
+ * Copyright 2012 MyBB Community Vietnam, All Rights Reserved
+ * 
+ * $Id: datahandler_post.lang.php 5297 2012-02-24 22:01:14Z MyBB Community Vietnam $
  */
 
-$l['postdata_invalid_user_id'] = 'The user id does not exist. Please supply a valid user id.';
-$l['postdata_firstpost_no_subject'] = 'The thread does not have a subject. Please enter a subject.';
-$l['postdata_missing_subject'] = 'The subject is missing. Please enter a subject.';
-$l['postdata_missing_message'] = 'The message is missing. Please enter a message.';
-$l['postdata_message_too_long'] = 'The message is too long. Please enter a message shorter than {1} characters (currently {2}).';
-$l['postdata_message_too_short'] = 'The message is too short. Please enter a message longer than {1} characters.';
-$l['postdata_subject_too_long'] = 'The subject is too long. Please enter a subject shorter than 85 characters (currently {1}).';
-$l['postdata_post_flooding'] = 'You are trying to post a message too quickly after posting a previous message. Please wait {1} more seconds.';
-$l['postdata_post_flooding_one_second'] = 'You are trying to post a message too quickly after posting a previous message. Please wait 1 more second.';
-$l['postdata_too_many_images'] = 'The message you entered contained {1} images, while only {2} images per message are allowed. Please lower the image count in your message to meet the limit.';
-$l['postdata_too_many_videos'] = 'The message you entered contained {1} videos, while only {2} videos per message are allowed. Please lower the video count in your message to meet the limit.';
-$l['postdata_invalid_prefix'] = 'The selected prefix is invalid. Please select a valid prefix.';
+$l['postdata_invalid_user_id'] = 'Tên người dùng không tồn tại. Hãy thay thế một người dùng đã đăng ký.';
+$l['postdata_firstpost_no_subject'] = 'Bài viết chưa có tiêu đề. Bạn hãy nhập tiêu đề.';
+$l['postdata_missing_subject'] = 'Tiêu đề không tồn tại. Bạn hãy nhập tiêu đề.';
+$l['postdata_missing_message'] = 'Nội dung không tồn tại. Bạn hãy nhập lại nội dung.';
+$l['postdata_message_too_long'] = 'Nội dung quá dài. Bạn hãy nhập nội dung ngắn hơn';
+$l['postdata_message_too_short'] = 'Nội dung quá ngắn. Bạn hãy nhập nội dung dài hơn';
+$l['postdata_post_flooding'] = 'Có lỗi xảy ra. Bạn hãy đợi {1} giây để viết bài tiếp theo.';
+$l['postdata_post_flooding_one_second'] = 'Có lỗi xảy ra. Bạn hãy đợi 1 giây để viết trả lời.';
+$l['postdata_too_many_images'] = 'Bài viết của bạn gồm có {1} hình ảnh, trong khi đó diễn đàn chỉ cho phép {2} hình ảnh trên một bài viết. Bạn hãy giảm số ảnh đến số lượng cho phép.';
 
-$l['thread_closed'] = "Thread Closed";
-$l['thread_opened'] = "Thread Opened";
-$l['thread_stuck'] = "Thread Stuck";
-$l['thread_unstuck'] = "Thread Unstuck";
-
+$l['thread_closed'] = "Chủ đề bị khoá";
+$l['thread_opened'] = "Chủ đề đã mở";
+$l['thread_stuck'] = "Chủ đề đã được dán";
+$l['thread_unstuck'] = "Chủ đề đã được gỡ bỏ";
 ?>

@@ -1,58 +1,58 @@
 <?php
 /**
  * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: polls.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: polls.lang.php 5297 2012-02-27 22:01:14Z Community MyBB Vietnam $
  */
 
-$l['nav_postpoll'] = "Post Poll";
-$l['nav_editpoll'] = "Edit Poll";
-$l['nav_pollresults'] = "Poll Results";
+$l['nav_postpoll'] = "Tạo bình chọn";
+$l['nav_editpoll'] = "Sửa bình chọn";
+$l['nav_pollresults'] = "Kết quả";
 
-$l['edit_poll'] = "Edit Poll";
-$l['delete_poll'] = "Delete Poll";
-$l['delete_q'] = "Delete?";
-$l['delete_note'] = "To delete this poll, check the box to the left and click the button to the right.";
-$l['delete_note2'] = "<b>Note:</b> Once this poll has been deleted there is no way of restoring it.";
-$l['question'] = "Question:";
-$l['num_options'] = "Number of Options:";
-$l['max_options'] = "Maximum:";
-$l['poll_options'] = "Poll Options:";
-$l['update_options'] = "Update Options";
+$l['edit_poll'] = "Sửa bình chọn";
+$l['delete_poll'] = "Xóa bình chọn";
+$l['delete_q'] = "Xóa?";
+$l['delete_note'] = "Để xóa bình chọn này, chọn vào ô vuông bên trái và nhấn nút bên phải.";
+$l['delete_note2'] = "<b>Chú ý:</b> Khi xóa sẽ không thể khôi phục lại bình chọn này được.";
+$l['question'] = "Câu hỏi:";
+$l['num_options'] = "Số câu trả lời:";
+$l['max_options'] = "Tối đa:";
+$l['poll_options'] = "Tùy chọn cho bình chọn:";
+$l['update_options'] = "Cập nhật";
 $l['poll_options_note'] = "Poll options should be short and to the point.";
-$l['options'] = "Options:";
-$l['option_multiple'] = "<b>Allow multiple choice:</b> Users have the ability to vote on more than one option.";
-$l['option_public'] = "<b>Public Poll:</b> Give users the ability to see which user voted on which option(s).";
-$l['option_closed'] = "<b>Poll is Closed:</b> If checked the poll will be closed from voting.";
-$l['poll_timeout'] = "Poll Timeout:";
-$l['timeout_note'] = "The number of day(s) which people can vote on this poll.<br />(Set to 0 to if this poll should not timeout.)";
-$l['days_after'] = "days after:";
-$l['update_poll'] = "Update Poll";
-$l['option'] = "Option";
-$l['votes'] = "Votes:";
-$l['post_new_poll'] = "Post New Poll";
-$l['days'] = "days";
-$l['poll_results'] = "Poll Results";
-$l['poll_total'] = "Total:";
-$l['poll_votes'] = "votes";
+$l['options'] = "Tùy chọn:";
+$l['option_multiple'] = "<b>Cho phép chọn nhiều trả lời:</b> Người tham gia bình chọn có thể chọn nhiều câu trả lời phù hợp.";
+$l['option_public'] = "<b>Cộng đồng:</b> Người tham gia có thể biết ai đang bầu chọn câu trả lời nào.";
+$l['option_closed'] = "<b>Đóng bình chọn:</b> Nếu bạn không muốn cho bình chọn nữa.";
+$l['poll_timeout'] = "Thời hạn:";
+$l['timeout_note'] = "Số ngày mà được phép bình chọn. Nếu hết thời gian, bình chọn sẽ tự đóng.<br />(Đặt là số 0 nếu muốn bình chọn không bao giờ hết hạn.)";
+$l['days_after'] = "ngày sau:";
+$l['update_poll'] = "Cập nhật";
+$l['option'] = "Tùy chọn";
+$l['votes'] = "Lượt:";
+$l['post_new_poll'] = "Gửi bình chọn mới";
+$l['days'] = "ngày";
+$l['poll_results'] = "Kết quả";
+$l['poll_total'] = "Tổng:";
+$l['poll_votes'] = "lượt";
 
-$l['redirect_pollposted'] = "Your poll has been posted.<br />You will now be returned to the thread.";
-$l['redirect_pollpostedmoderated'] = "Your poll has been posted, but your thread is still pending moderation.<br />You will be returned to the forum.";
-$l['redirect_pollupdated'] = "The poll has been updated.<br />You will now be returned to the thread.";
-$l['redirect_votethanks'] = "Thank you for voting.<br />You will now be returned to the thread.";
-$l['redirect_unvoted'] = "Your vote(s) in this thread have been removed.<br />You will now be returned to the thread.";
-$l['redirect_polldeleted'] = "Thank you, the poll has successfully been removed from the thread.<br />You will now be taken back to the thread.";
+$l['redirect_pollposted'] = "Bình chọn của bạn đã được tạo.<br />Bây giờ bạn sẽ được đưa trở về trang trước đó.";
+$l['redirect_pollpostedmoderated'] = "thăm dò ý kiến của bạn đã được đăng, nhưng chủ đề của bạn vẫn còn đang chờ kiểm duyệt.<br />Bây giờ bạn sẽ được đưa trở về diễn đàn.";
+$l['redirect_pollupdated'] = "Bình chọn đã được cập nhật.<br />Bây giờ bạn sẽ được đưa trở về trang trước đó.";
+$l['redirect_votethanks'] = "Cảm ơn bạn đã tham gia bình chọn.<br />Bây giờ bạn sẽ được đưa trở về trang trước đó.";
+$l['redirect_unvoted'] = "Bình chọn của bạn trong chủ đề này đã được xóa.<br />Bây giờ bạn sẽ được đưa trở về trang trước đó.";
+$l['redirect_polldeleted'] = "Cảm ơn, thăm dò ý kiến đã được xóa thành công khỏi chủ đề.<br />Bây giờ bạn sẽ được đưa trở về trang trước đó.";
 
-$l['error_polloptiontoolong'] = "One or more poll options you entered are longer than the acceptable limit. Please go back and shorten them.";
-$l['error_noquestionoptions'] = "You either did not enter a question for your poll or do not have enough options. The minimum number of options a poll can have is 2.<br />Please go back and correct this error.";
-$l['error_pollalready'] = "Thread already has poll!";
-$l['error_nopolloptions'] = "The specified poll option is invalid or does not exist.";
-$l['error_alreadyvoted'] = "You have already voted in this poll.";
-$l['error_notvoted'] = "You haven't voted in this poll.";
-$l['error_invalidpoll'] = "The specified poll is invalid or does not exist.";
-$l['error_pollclosed'] = "You cannot vote in a poll that has been closed.";
+$l['error_polloptiontoolong'] = "Một hay nhiều tùy chọn thăm dò ý kiến bạn nhập vào dài hơn giới hạn ccho phép. Xin vui lòng quay trở lại và rút ngắn chúng.";
+$l['error_noquestionoptions'] = "Bạn không được đưa một câu hỏi thăm dò ý kiến của bạn hoặc không có đủ các tùy chọn.Số lượng tối thiểu các lựa chọn một cuộc bình chọn có thể có là 2.<br />Xin vui lòng quay trở lại và sửa lỗi này.";
+$l['error_pollalready'] = "Chủ đề đã có bình chọn!";
+$l['error_nopolloptions'] = "Các tùy chọn bình chọn không hợp lệ hoặc không tồn tại.";
+$l['error_alreadyvoted'] = "Bạn đã tham gia bình chọn này rồi.";
+$l['error_notvoted'] = "Bạn chưa tham gia bình chọn này.";
+$l['error_invalidpoll'] = "Các cuộc bình chọn là không hợp lệ hoặc không tồn tại.";
+$l['error_pollclosed'] = "Bạn không thể bỏ phiếu trong một cuộc bình chọn đã được đóng.";
 
-$l['poll_deleted'] = "Deleted Poll";
-$l['poll_edited'] = "Edited Poll";
+$l['poll_deleted'] = "Xóa bình chọn";
+$l['poll_edited'] = "Sửa bình chọn";
 ?>

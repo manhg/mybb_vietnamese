@@ -1,18 +1,18 @@
 <?php
 /**
  * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: sendthread.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: sendthread.lang.php 5297 2012-02-27 22:01:14Z Community MyBB Vietnam $
  */
 
-$l['nav_sendthread'] = "Send Thread to a Friend";
+$l['nav_sendthread'] = "Gửi chủ đề tới bạn bè";
 
-$l['send_thread'] = "Send To Friend";
-$l['recipient'] = "Recipient:";
-$l['recipient_note'] = "Enter your friends email address here.";
-$l['subject'] = "Subject:";
-$l['message'] = "Message:";
-$l['error_nosubject'] = "You are required to enter a subject for the message to send your thread";
-$l['error_nomessage'] = "You are required to enter a message before you can send this thread to your friend";
+$l['send_thread'] = "Gửi tới bạn bè";
+$l['recipient'] = "Người nhận:";
+$l['recipient_note'] = "Nhập vào địa chỉ Email của bạn bè.";
+$l['subject'] = "Tiêu đề:";
+$l['message'] = "Nội dung:";
+$l['error_nosubject'] = "Vui lòng nhập vào Tiêu đề";
+$l['error_nomessage'] = "Vui lòng nhập vào Nội dung thư";
 ?>

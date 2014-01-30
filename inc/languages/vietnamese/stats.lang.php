@@ -1,37 +1,37 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * MyBB 1.6 Vietnamese Language Pack
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: stats.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: stats.lang.php 2012-02-26 16:00:00Z Community MyBB Vietnam $
  */
 
-$l['nav_stats'] = "Board Statistics";
+$l['nav_stats'] = "Bảng trạng thái";
 
-$l['board_stats'] = "Board Statistics";
+$l['board_stats'] = "Bảng trạng thái";
 $l['none'] = "None";
-$l['nobody'] = "Nobody";
-$l['totals'] = "Totals";
-$l['averages'] = "Averages";
-$l['posts'] = "Posts:";
-$l['threads'] = "Threads:";
-$l['members'] = "Members:";
-$l['ppd'] = "Posts per day:";
-$l['tpd'] = "Threads per day:";
-$l['mpd'] = "Members per day:";
-$l['ppm'] = "Posts per member:";
-$l['rpt'] = "Replies per thread:";
-$l['no_posts'] = "No";
-$l['general'] = "General";
-$l['newest_member'] = "Newest Member:";
-$l['members_posted'] = "Members who have posted:";
-$l['todays_top_poster'] = "Today's top poster: <b>{1}</b> (<b>{2}</b> posts)";
-$l['popular_forum'] = "Most popular forum: <b>{1}</b> (<b>{2}</b> posts, <b>{3}</b> threads)";
-$l['most_popular'] = "Most Popular...";
-$l['most_replied_threads'] = "Most Replied To Threads";
-$l['most_viewed_threads'] = "Most Viewed Threads";
-$l['not_enough_info_stats'] = "Sorry, but there is not enough information on this board to generate statistics. Before statistics can be generated this board needs to contain at least 1 member and 1 thread.";
-$l['replies'] = "replies";
-$l['views'] = "views";
+$l['nobody'] = "Không có ai";
+$l['totals'] = "Tổng số";
+$l['averages'] = "Trung bình";
+$l['posts'] = "Số bài viết:";
+$l['threads'] = "Số chủ đề:";
+$l['members'] = "Số thành viên:";
+$l['ppd'] = "Số bài viết trên một ngày:";
+$l['tpd'] = "Số chủ đề trên một ngày:";
+$l['mpd'] = "Số thành viên trên một ngày:";
+$l['ppm'] = "Số bài viết trên số thành viên:";
+$l['rpt'] = "Số trả lời trên số chủ đề:";
+$l['no_posts'] = "Không";
+$l['general'] = "Hiển thị";
+$l['newest_member'] = "Thành viên mới nhất:";
+$l['members_posted'] = "Những thành viên đã viết bài:";
+$l['todays_top_poster'] = "Thành viên viết bài nhiều nhất hôm nay: <b>{1}</b> (<b>{2}</b> bài viết)";
+$l['popular_forum'] = "Phổ biến nhất diễn đàn: <b>{1}</b> (<b>{2}</b> bài viết, <b>{3}</b> chủ đề)";
+$l['most_popular'] = "Phổ biến nhất...";
+$l['most_replied_threads'] = "Chủ đề được trả lời nhiều nhất";
+$l['most_viewed_threads'] = "Chủ đề được xem nhiều nhất";
+$l['not_enough_info_stats'] = "Xin lỗi nhưng không có thông tin gì trên bảng trạng thái. Để bảng trạng thái được tạo ra thì ít nhất cần có 1 thành viên và 1 chủ đề.";
+$l['replies'] = "trả lời";
+$l['views'] = "xem";
 
 ?>

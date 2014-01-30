@@ -1,52 +1,52 @@
 <?php
 /**
  * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: portal.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: portal.lang.php 5297 2012-02-27 22:01:14Z Community MyBB Vietnam $
  */
 
-$l['nav_portal'] = "Portal";
-$l['posted_by'] = "Posted by:";
-$l['replies'] = "Replies";
-$l['no_replies'] = "No Replies";
-$l['latest_threads'] = "Latest Threads";
-$l['latest_threads_replies'] = "Replies:";
-$l['latest_threads_views'] = "Views:";
-$l['latest_threads_lastpost'] = "Last Post:";
-$l['private_messages'] = "Private Messages";
-$l['pms_received_new'] = "{1}, you have <b>{2}</b> unread message(s).";
-$l['pms_unread'] = "Unread Messages";
-$l['pms_total'] = "Total Messages";
-$l['search_forums'] = "Search Forums";
-$l['advanced_search'] = "Advanced Search";
-$l['forum_stats'] = "Forum Statistics";
-$l['num_members'] = "Members:";
-$l['latest_member'] = "Latest member:";
-$l['num_threads'] = "Forum threads:";
-$l['num_posts'] = "Forum posts:";
-$l['full_stats'] = "Full Statistics";
-$l['welcome'] = "Welcome, {1}";
-$l['guest'] = "Guest";
-$l['guest_welcome_registration'] = "You have to <a href=\"{1}\">register</a> before you can post on our site.";
-$l['username'] = "Username";
-$l['password'] = "Password";
-$l['login'] = "Login!";
-$l['member_welcome_lastvisit'] = "Last visit:";
-$l['since_then'] = "Since then, there have been:";
-$l['new_announcements'] = "{1} new announcements";
-$l['new_announcement'] = "1 new announcement";
-$l['new_threads'] = "{1} new threads";
-$l['new_thread'] = "1 new thread";
-$l['new_posts'] = "{1} new posts";
-$l['new_post'] = "1 new post";
-$l['view_new'] = "View New Posts";
-$l['view_todays'] = "View Today's Posts";
-$l['online'] = "Online Users";
-$l['online_user'] = "There is currently 1 user online"; 
-$l['online_users'] = "There are currently <b>{1}</b> online users.";
-$l['online_counts'] = "<b>{1}</b> Member(s) | <b>{2}</b> Guest(s)";
-$l['no_one'] = "no-one";
-$l['print_this_item'] = "Print this item";
-$l['send_to_friend'] = "Send this item to a friend";
+$l['nav_portal'] = "Trang chủ";
+$l['posted_by'] = "Viết bởi:";
+$l['replies'] = "Bài trả lời";
+$l['no_replies'] = "Không có hồi đáp";
+$l['latest_threads'] = "Chủ đề mới nhất";
+$l['latest_threads_replies'] = "Bài trả lời:";
+$l['latest_threads_views'] = "Lượt xem:";
+$l['latest_threads_lastpost'] = "Người gửi cuối:";
+$l['private_messages'] = "Tin nhắn";
+$l['pms_received_new'] = "{1}, bạn có <b>{2}</b>tin nhắn chưa đọc.";
+$l['pms_unread'] = "Tin nhắn chưa đọc";
+$l['pms_total'] = "Tổng số tin nhắn";
+$l['search_forums'] = "Tìm kiếm Diễn đàn";
+$l['advanced_search'] = "Tìm kiếm nâng cao";
+$l['forum_stats'] = "Thống kê Diễn đàn";
+$l['num_members'] = "Thành viên:";
+$l['latest_member'] = "Thành viên mới nhất:";
+$l['num_threads'] = "Số chủ đề:";
+$l['num_posts'] = "Số bài viết:";
+$l['full_stats'] = "Thống kê đầy đủ";
+$l['welcome'] = "Chào mừng, {1}";
+$l['guest'] = "Khách";
+$l['guest_welcome_registration'] = "Bạn cần phải <a href=\"{1}\">đăng ký</a> trước khi bạn có thể đăng trên trang web của chúng tôi.";
+$l['username'] = "Tên đăng nhập";
+$l['password'] = "Mật khẩu";
+$l['login'] = "Đăng nhập!";
+$l['member_welcome_lastvisit'] = "Lần cuối truy cập:";
+$l['since_then'] = "Kể từ đó, đã có:";
+$l['new_announcements'] = "{1} thông báo mới";
+$l['new_announcement'] = "1 thông báo mới";
+$l['new_threads'] = "{1} chủ đề mới";
+$l['new_thread'] = "1 chủ đề mới";
+$l['new_posts'] = "{1} bài viết mới";
+$l['new_post'] = "1 bài viết mới";
+$l['view_new'] = "Xem bài mới";
+$l['view_todays'] = "Xem Bài viết của hôm nay";
+$l['online'] = "Thành viên online";
+$l['online_user'] = "Có 1 người đang trực tuyến"; 
+$l['online_users'] = "Hiện đang có <b>{1}</b> người dùng trực tuyến.";
+$l['online_counts'] = "<b>{1}</b> Thành viên | <b>{2}</b> Khách";
+$l['no_one'] = "không ai";
+$l['print_this_item'] = "In mục này";
+$l['send_to_friend'] = "Gửi tin này cho bạn bè";
 ?>

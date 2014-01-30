@@ -1,43 +1,43 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * MyBB 1.6 Vietnamese Language Pack
+ * Copyright 2012 Community MyBB Vietnam, All Rights Reserved
  * 
- * $Id: xmlhttp.lang.php 5701 2011-12-07 08:48:12Z Tomm $
+ * $Id: xmlhttp.lang.php 2012-02-27 16:00:00Z Community MyBB Vietnam $
  */
 
-$l['no_new_subject'] = "You did not enter a new subject.";
-$l['post_moderation'] = "Your post is now under moderation.";
-$l['post_doesnt_exist'] = "The specified post does not exist.";
-$l['thread_doesnt_exist'] = "The specified thread does not exist.";
-$l['thread_closed_edit_subjects'] = "This thread is closed and you may not edit subjects.";
-$l['no_permission_edit_subject'] = "You do not have permission to edit this thread subject.";
-$l['thread_closed_edit_message'] = "This thread is closed and you may not edit messages within it.";
-$l['no_permission_edit_post'] = "You do not have permission to edit this message.";
-$l['edit_time_limit'] = "You can only edit messages for {1} minutes after they were posted.";
-$l['postbit_edited'] = "This post was last modified: {1} {2} by";
-$l['save_changes'] = "Save Changes";
-$l['cancel_edit'] = "Cancel Edit";
-$l['captcha_not_exists'] = "The image verification image you are trying to refresh does not exist.";
-$l['captcha_valid_not_exists'] = "The image verification image you are trying to check does not seem to exist.";
-$l['captcha_does_not_match'] = "The image verification code that you entered was incorrect. Please enter the code exactly how it appears in the image.";
-$l['captcha_matches'] = "The image verification code you entered was correct.";
-$l['banned_username'] = "The username you entered has been disallowed by the administrator";
-$l['banned_characters_username'] = "Your username contains one or more invalid characters";
-$l['complex_password_fails'] = "Password requires an upper case letter, lower case letter and a number";
-$l['username_taken'] = "{1} is already registered by another member";
-$l['username_available'] = "{1} is available";
-$l['invalid_username'] = "{1} is not the username of a registered member";
-$l['valid_username'] = "{1} is a valid referrer.";
-$l['buddylist_error'] = "It seems like you do not have any buddies on your buddy list. Please add some before trying to use this.";
-$l['close'] = "Close";
-$l['select_buddies'] = "Select Buddies";
-$l['select_buddies_desc'] = "To add one or more of your buddies as recipients, select them below and click OK.";
-$l['selected_recipients'] = "Selected recipients";
+$l['no_new_subject'] = "Bạn đã không nhập một chủ đề mới.";
+$l['post_moderation'] = "Bài đăng của bạn bây giờ là dưới kiểm duyệt.";
+$l['post_doesnt_exist'] = "Bài viết không tồn tại.";
+$l['thread_doesnt_exist'] = "Chủ đề không tồn tại.";
+$l['thread_closed_edit_subjects'] = "Chủ đề đã bị khoá và bạn không thể sửa tiêu đề.";
+$l['no_permission_edit_subject'] = "Bạn không được cấp phép để sửa tiêu đề của chủ đề này.";
+$l['thread_closed_edit_message'] = "Chủ đề đã bị đóng và bạn không thể sửa nội dung của nó.";
+$l['no_permission_edit_post'] = "Bạn không được cấp quyền để sửa nội dung.";
+$l['edit_time_limit'] = "Bạn chỉ có thể sửa nội dung trong vòng {1} phút sau khi viết bài.";
+$l['postbit_edited'] = "Bài viết được sửa lần cuối vào lúc: {1} {2} bởi";
+$l['save_changes'] = "Lưu thay đổi";
+$l['cancel_edit'] = "Không sửa";
+$l['captcha_not_exists'] = "Ảnh xác nhập không tồn tại.";
+$l['captcha_valid_not_exists'] = "Ảnh xác nhập không tồn tại.";
+$l['captcha_does_not_match'] = "Bạn đã nhập sai mã trong ảnh xác nhận. Bạn hãy nhập lại cho thật chính xác.";
+$l['captcha_matches'] = "Bạn đã nhập đúng mã trong ảnh xác nhập.";
+$l['banned_username'] = "Tên đăng ký của bạn nhập đã không được  Administrator chấp nhận";
+$l['banned_characters_username'] = "Tên đăng nhập của bạn chứa ký tự không cho phép";
+$l['complex_password_fails'] = "Mật mã không đủ phức tạp";
+$l['username_taken'] = "{1} đã bị đăng ký bởi thành viên khác";
+$l['username_available'] = "{1} có thể sử dụng";
+$l['invalid_username'] = "{1} không phải là tên đăng nhập có thể sử dụng";
+$l['valid_username'] = "{1} là người giới thiệu không tồn tại.";
+$l['buddylist_error'] = "Nó có vẻ như bạn không có bạn bè trong danh sách bạn bè của bạn. Xin vui lòng thêm một số trước khi thử sử dụng.";
+$l['close'] = "Đóng";
+$l['select_buddies'] = "Chọn Bạn";
+$l['select_buddies_desc'] = "Để thêm một hoặc nhiều bạn bè của bạn như người nhận, chọn bên dưới và nhấn OK.";
+$l['selected_recipients'] = "Lựa chọn người nhận";
 $l['ok'] = "OK";
 $l['cancel'] = "Cancel";
 $l['online'] = "Online";
 $l['offline'] = "Offline";
-$l['edited_post'] = "Edited Post";
+$l['edited_post'] = "Đã sửa bài viết";
 $l['usergroup'] = "Usergroup";
 ?>
