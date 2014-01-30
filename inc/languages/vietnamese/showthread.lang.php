@@ -12,8 +12,8 @@ $l['stick_thread'] = "Đính lên đầu";
 
 $l['author'] = "Tác giả";
 $l['message'] = "Nội dung";
-$l['threaded'] = "Chế độ phân tầng";
-$l['linear'] = "Chế độ thời gian";
+$l['threaded'] = "Hiện lồng nhau";
+$l['linear'] = "Theo thời gian";
 $l['next_oldest'] = "Next Oldest";
 $l['next_newest'] = "Next Newest";
 $l['view_printable'] = "Xem bản để in ấn";

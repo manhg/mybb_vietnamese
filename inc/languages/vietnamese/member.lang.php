@@ -94,7 +94,7 @@ $l['allow_notices'] = "Nhận email từ quản trị viên.";
 $l['hide_email'] = "Không hiện địa chỉ email của tôi.";
 $l['email_notify'] = "Tự động đặt theo dõi cho chủ đề có bài của tôi.";
 $l['receive_pms'] = "Nhận tin nhắn cá nhân từ mọi người.";
-$l['pm_notice'] = "Cảnh báo khi có tin nhắn mới gửi cho tôi.";
+$l['pm_notice'] = "Thông báo khi có tin nhắn mới gửi cho tôi.";
 $l['email_notify_newpm'] = "Thông báo qua email cho tôi khi có tin nhắn mới.";
 $l['time_offset'] = "Bỏ qua hiệu chỉnh Giờ khu vực (<acronym title=\"Daylight Saving Time\">DST</acronym> - Daylight Saving Time)";
 $l['time_offset_desc'] = "Bạn có thể chọn giờ tại khu vực mà mình đăng sống cho phù hợp.";
